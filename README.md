@@ -15,8 +15,8 @@ No intuito de colaborar com a comunidade open source, um pull request por vez, n
 **1 -** Faça uma cópia do projeto e instale as dependências:
 
 ```sh
-$ git clone https://github.com/rede-cidada/rede-cidda-no-hacktoberfest2020.git
-$ cd rede-cidda-no-hacktoberfest2020/
+$ git clone https://github.com/rede-cidada/rede-cidada-no-hacktoberfest2020.git
+$ cd rede-cidada-no-hacktoberfest2020/
 $ yarn start
 ```
 
@@ -36,7 +36,7 @@ Vá para: [http://localhost:3000/](http://localhost:3000/)
 
 ## Contribuindo
 
-Dá uma olhada nos nossos [issues](https://github.com/rede-cidada/rede-cidda-no-hacktoberfest2020/issues/) e saca se tem algo lá que tu possa ajudar.
+Dá uma olhada nos nossos [issues](https://github.com/rede-cidada/rede-cidada-no-hacktoberfest2020/issues/) e saca se tem algo lá que tu possa ajudar.
 
 Quer contribuir? [Segue aqui nossas recomendações](./CONTRIBUTING.md).
 
