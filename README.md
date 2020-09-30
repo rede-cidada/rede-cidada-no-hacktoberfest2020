@@ -42,4 +42,4 @@ Quer contribuir? [Segue aqui nossas recomendações](./CONTRIBUTING.md).
 
 ## Licença
 
-[MIT License](https://github.com/rede-cidada/rede-cidda-no-hacktoberfest2020/blob/master/LICENSE.md) © [Rede Cidadã](http://www.redecidada.org.br/a-rede-cidada/quemsomos/)
+[MIT License](./LICENSE.md) © [Rede Cidadã](http://www.redecidada.org.br/a-rede-cidada/quemsomos/)
