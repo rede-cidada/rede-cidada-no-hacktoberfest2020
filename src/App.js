@@ -1,13 +1,16 @@
 import React from 'react';
 
 import { Normalize } from 'styled-normalize';
+import Hero from './components/Hero';
 import GlobalStyles from './assets/styles/GlobalStyles';
+import { FlexBox } from './shared-ui/Containers';
 
 const App = () => (
-  <>
+  <FlexBox>
     <Normalize />
     <GlobalStyles />
-    <h1>Rede Cidadã no Hacktoberfest 2020 - Online</h1>;
-  </>
+
+    <Hero />
+  </FlexBox>
 );
 export default App;

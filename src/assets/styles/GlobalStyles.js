@@ -9,12 +9,13 @@ const GlobalStyles = createGlobalStyle`
   }
 
   html { 
-    font-family: ${fonts?.base};
     -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
-     -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-  
+
+    font-family: ${fonts?.base};
+    font-size: 62.5%;
+
     background: ${colors?.primaryDark};
     color: ${colors?.neutral};
 
@@ -22,6 +23,10 @@ const GlobalStyles = createGlobalStyle`
     flex-direction: column;
     align-items: center;
     scroll-behavior: smooth;
+  }
+
+  body {
+    font-size: 1.6rem;
   }
 
   *,
