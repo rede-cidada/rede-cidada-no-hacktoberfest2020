@@ -15,41 +15,39 @@ const Member = ({
   foto: { src, alt },
   nome,
   biografia,
-  cargo,
+  participante,
   curso,
   turno,
   professor,
   redesSocias: { github, linkedin },
-}) => {
-  return (
-    <ListItem as="li">
-      <ListItemProfileImg src={src} alt={alt} />
-      <BoxLabel>
-        <ListItemLabel>{cargo}</ListItemLabel>
-        <ListItemLabel>{curso}</ListItemLabel>
-        <ListItemLabel>{turno}</ListItemLabel>
-        {professor && <ListItemLabel>{professor}</ListItemLabel>}
-      </BoxLabel>
-      <ListItemName>{nome}</ListItemName>
-      <ListItemText>{biografia}</ListItemText>
-      <div>
-        <SocialNetworkLink
-          href={github}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <ImGithub />
-        </SocialNetworkLink>
-        <SocialNetworkLink
-          href={linkedin}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <ImLinkedin />
-        </SocialNetworkLink>
-      </div>
-    </ListItem>
-  );
-};
+}) => (
+  <ListItem as="li">
+    <ListItemProfileImg src={src} alt={alt} />
+    <BoxLabel>
+      <ListItemLabel>{participante}</ListItemLabel>
+      <ListItemLabel>{curso}</ListItemLabel>
+      <ListItemLabel>{turno}</ListItemLabel>
+      {professor && <ListItemLabel>{professor}</ListItemLabel>}
+    </BoxLabel>
+    <ListItemName>{nome}</ListItemName>
+    <ListItemText>{biografia}</ListItemText>
+    <div>
+      <SocialNetworkLink
+        href={github}
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <ImGithub />
+      </SocialNetworkLink>
+      <SocialNetworkLink
+        href={linkedin}
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <ImLinkedin />
+      </SocialNetworkLink>
+    </div>
+  </ListItem>
+);
 
 export default Member;

@@ -10,6 +10,7 @@ export const ListItem = styled(FlexBox)`
   padding: 2rem;
 
   width: 100%;
+  max-width: 27rem;
   min-width: 27rem;
 
   justify-content: flex-start;
@@ -32,7 +33,10 @@ export const ListItemProfileImg = styled.img`
   border-radius: 50%;
 `;
 
-export const BoxLabel = styled.div`
+export const BoxLabel = styled(FlexBox)`
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
   padding-top: 2rem;
   width: 100%;
 `;
