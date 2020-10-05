@@ -12,6 +12,7 @@ const GlobalStyles = createGlobalStyle`
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
+    text-size-adjust: 100%;
 
     font-family: ${fonts?.base};
     font-size: 62.5%;

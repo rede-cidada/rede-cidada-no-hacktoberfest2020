@@ -6,6 +6,7 @@ export const MembersList = styled.ul`
   display: grid;
   grid-gap: 20px;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  justify-items: center;
 
   width: 100%;
   max-width: 117rem;

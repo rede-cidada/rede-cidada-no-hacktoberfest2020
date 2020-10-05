@@ -2,7 +2,9 @@ import React from 'react';
 import { ImGithub, ImLinkedin } from 'react-icons/im';
 
 import {
+  BoxLabel,
   ListItem,
+  ListItemLabel,
   ListItemProfileImg,
   SocialNetworkLink,
 } from './Member.styled';
@@ -20,12 +22,12 @@ const Member = ({
   return (
     <ListItem as="li">
       <ListItemProfileImg src={src} alt={alt} />
-      <div>
-        <span>{cargo}</span>
-        <span>{curso}</span>
-        <span>{turno}</span>
-        {professor && <span>{professor}</span>}
-      </div>
+      <BoxLabel>
+        <ListItemLabel>{cargo}</ListItemLabel>
+        <ListItemLabel>{curso}</ListItemLabel>
+        <ListItemLabel>{turno}</ListItemLabel>
+        {professor && <ListItemLabel>{professor}</ListItemLabel>}
+      </BoxLabel>
       <p>{nome}</p>
       <p>{biografia}</p>
       <div>
