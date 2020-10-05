@@ -24,3 +24,15 @@ export const ListItemProfileImg = styled.img`
   max-width: 26rem;
   border-radius: 50%;
 `;
+
+export const SocialNetworkLink = styled.a`
+  cursor: pointer;
+  text-decoration: none;
+  color: ${colors.neutral};
+  font-size: 3.5rem;
+  margin: 1rem;
+
+  :hover {
+    color: ${colors.primaryLighter};
+  }
+`;

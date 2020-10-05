@@ -22,7 +22,7 @@ export const members = [
     cargo: 'Professora',
     curso: 'Front-end',
     turno: 'noite',
-    professor: 'não se aplica',
+    professor: '',
     biografia:
       'Mãe de três, Women Who Code Recife director, desenvolvedora na ThoughtWorks e educadora na Rede Cidadã. Engajada com a comunidade, gosta de compartilhar conhecimento através de palestras, artigos e workshops. Eterna aprendiz e CSS lover',
     foto: {
@@ -40,7 +40,7 @@ export const members = [
     cargo: 'Professora',
     curso: 'Front-end',
     turno: 'noite',
-    professor: 'não se aplica',
+    professor: '',
     biografia:
       'Mãe de três, Women Who Code Recife director, desenvolvedora na ThoughtWorks e educadora na Rede Cidadã. Engajada com a comunidade, gosta de compartilhar conhecimento através de palestras, artigos e workshops. Eterna aprendiz e CSS lover',
     foto: {
@@ -58,7 +58,7 @@ export const members = [
     cargo: 'Professora',
     curso: 'Front-end',
     turno: 'noite',
-    professor: 'não se aplica',
+    professor: '',
     biografia:
       'Mãe de três, Women Who Code Recife director, desenvolvedora na ThoughtWorks e educadora na Rede Cidadã. Engajada com a comunidade, gosta de compartilhar conhecimento através de palestras, artigos e workshops. Eterna aprendiz e CSS lover',
     foto: {
@@ -76,7 +76,7 @@ export const members = [
     cargo: 'Professora',
     curso: 'Front-end',
     turno: 'noite',
-    professor: 'não se aplica',
+    professor: '',
     biografia:
       'Mãe de três, Women Who Code Recife director, desenvolvedora na ThoughtWorks e educadora na Rede Cidadã. Engajada com a comunidade, gosta de compartilhar conhecimento através de palestras, artigos e workshops. Eterna aprendiz e CSS lover',
     foto: {
@@ -94,7 +94,7 @@ export const members = [
     cargo: 'Professora',
     curso: 'Front-end',
     turno: 'noite',
-    professor: 'não se aplica',
+    professor: '',
     biografia:
       'Mãe de três, Women Who Code Recife director, desenvolvedora na ThoughtWorks e educadora na Rede Cidadã. Engajada com a comunidade, gosta de compartilhar conhecimento através de palestras, artigos e workshops. Eterna aprendiz e CSS lover',
     foto: {
@@ -112,7 +112,7 @@ export const members = [
     cargo: 'Professora',
     curso: 'Front-end',
     turno: 'noite',
-    professor: 'não se aplica',
+    professor: '',
     biografia:
       'Mãe de três, Women Who Code Recife director, desenvolvedora na ThoughtWorks e educadora na Rede Cidadã. Engajada com a comunidade, gosta de compartilhar conhecimento através de palestras, artigos e workshops. Eterna aprendiz e CSS lover',
     foto: {
@@ -130,7 +130,7 @@ export const members = [
     cargo: 'Professora',
     curso: 'Front-end',
     turno: 'noite',
-    professor: 'não se aplica',
+    professor: '',
     biografia:
       'Mãe de três, Women Who Code Recife director, desenvolvedora na ThoughtWorks e educadora na Rede Cidadã. Engajada com a comunidade, gosta de compartilhar conhecimento através de palestras, artigos e workshops. Eterna aprendiz e CSS lover',
     foto: {
