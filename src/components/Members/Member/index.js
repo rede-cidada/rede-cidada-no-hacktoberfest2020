@@ -5,6 +5,8 @@ import {
   BoxLabel,
   ListItem,
   ListItemLabel,
+  ListItemName,
+  ListItemText,
   ListItemProfileImg,
   SocialNetworkLink,
 } from './Member.styled';
@@ -28,8 +30,8 @@ const Member = ({
         <ListItemLabel>{turno}</ListItemLabel>
         {professor && <ListItemLabel>{professor}</ListItemLabel>}
       </BoxLabel>
-      <p>{nome}</p>
-      <p>{biografia}</p>
+      <ListItemName>{nome}</ListItemName>
+      <ListItemText>{biografia}</ListItemText>
       <div>
         <SocialNetworkLink
           href={github}

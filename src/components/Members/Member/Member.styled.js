@@ -12,11 +12,13 @@ export const ListItem = styled(FlexBox)`
   width: 100%;
   min-width: 27rem;
 
+  justify-content: flex-start;
+
   background-color: ${colors.primary};
   border: 0.76446px solid #072540;
   box-shadow: 0px 2px 20px rgba(61, 27, 43, 0.1);
 
-  line-height: 1.5;
+  line-height: 1.4;
 
   :hover {
     transform: scale(1.04, 1.04);
@@ -31,7 +33,8 @@ export const ListItemProfileImg = styled.img`
 `;
 
 export const BoxLabel = styled.div`
-  padding: 1rem 0;
+  padding-top: 2rem;
+  width: 100%;
 `;
 
 export const ListItemLabel = styled.span`
@@ -42,7 +45,17 @@ export const ListItemLabel = styled.span`
   border-radius: 0.3rem;
 
   padding: 0.3rem 0.6rem;
-  margin: 0.6rem;
+  margin: 0.6rem 1.2rem 0.6rem 0;
+`;
+
+export const ListItemName = styled.h2`
+  width: 100%;
+  margin: 1.5rem 0 0 0;
+`;
+
+export const ListItemText = styled.p`
+  color: ${colors.primaryLighter};
+  margin: 0.5rem 0 1.5rem 0;
 `;
 
 export const SocialNetworkLink = styled.a`
