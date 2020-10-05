@@ -1,5 +1,7 @@
 import React from 'react';
 
+import { ListItem, ListItemProfileImg } from './Member.styled';
+
 const Member = ({
   foto: { src, alt },
   nome,
@@ -10,15 +12,15 @@ const Member = ({
   professor,
 }) => {
   return (
-    <li>
-      <img src={src} alt={alt} />
+    <ListItem as="li">
+      <ListItemProfileImg src={src} alt={alt} />
       <p>{nome}</p>
       <p>{biografia}</p>
       <span>{cargo}</span>
       <span>{curso}</span>
       <span>{turno}</span>
       {professor && <span>{professor}</span>}
-    </li>
+    </ListItem>
   );
 };
 
