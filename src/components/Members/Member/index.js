@@ -6,7 +6,6 @@ import {
   ListItem,
   ListItemLabel,
   ListItemName,
-  ListItemText,
   ListItemProfileImg,
   SocialNetworkLink,
 } from './Member.styled';
@@ -14,7 +13,6 @@ import {
 const Member = ({
   foto: { src, alt },
   nome,
-  biografia,
   participante,
   curso,
   turno,
@@ -30,7 +28,6 @@ const Member = ({
       {professor && <ListItemLabel>{professor}</ListItemLabel>}
     </BoxLabel>
     <ListItemName>{nome}</ListItemName>
-    <ListItemText>{biografia}</ListItemText>
     <div>
       <SocialNetworkLink
         href={github}
