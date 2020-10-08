@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 
 import { members } from './data';
 import Member from './Member';
-import { MembersList } from './Members.styled';
+import { MembersList, Box, Button } from './Members.styled';
 
 const Members = () => {
   const [filterMembers, setFilterMembers] = useState('Alunos');
@@ -22,13 +22,17 @@ const Members = () => {
 
   return (
     <>
-      <div>
+      <Box>
         {FILTER_NAMES.map(name => (
-          <button key={name} onClick={() => setFilterMembers(name)}>
+          <Button
+            key={name}
+            selected={filterMembers === name}
+            onClick={() => setFilterMembers(name)}
+          >
             {name}
-          </button>
+          </Button>
         ))}
-      </div>
+      </Box>
 
       <MembersList>
         {members.filter(FILTER_MAP[filterMembers]).map((member, index) => (
