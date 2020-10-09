@@ -30,5 +30,20 @@ export const members = [
       github: 'https://github.com/licensed',
       linkedin: 'https://www.linkedin.com/in/licensed/',
     },
-  },  
+  },
+  {
+    nome: 'Israel Batista',
+    participante: 'Aluno',
+    curso: '',
+    turno: '',
+    professor: '',
+    foto: {
+      src:
+        '',
+    },
+    redesSocias: {
+      github: '',
+      linkedin: '',
+    },
+  },   
 ];
