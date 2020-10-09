@@ -31,7 +31,6 @@ export const members = [
       linkedin: 'https://www.linkedin.com/in/licensed/',
     },
   },  
-
   {
     nome: 'Vanessa Oliveira',
     participante: 'Aluna',
@@ -48,4 +47,20 @@ export const members = [
       linkedin: 'https://www.linkedin.com/in/licensed/',
     },
   },
+  {
+    nome: 'Ana Beatriz',
+    participante: 'Aluna',
+    curso: 'Front-end',
+    turno: 'Noite',
+    professor: 'Simone',
+    foto: {
+      src:
+        '',
+      alt: '',
+    },
+    redesSocias: {
+      github: '',
+      linkedin: '',
+    },
+  }, 
 ];
