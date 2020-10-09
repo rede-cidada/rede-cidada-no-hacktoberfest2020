@@ -5,7 +5,7 @@ import Member from './Member';
 import { MembersList, Box, Button } from './Members.styled';
 
 const Members = () => {
-  const [filterMembers, setFilterMembers] = useState('Alunos');
+  const [filterMembers, setFilterMembers] = useState('Todos');
 
   const FILTER_MAP = {
     Todos: () => true,
@@ -14,8 +14,6 @@ const Members = () => {
     Professores: item =>
       item.participante === 'Professor' || item.participante === 'Professora',
     FrontEnd: item => item.curso === 'Front-end',
-    Java: item => item.curso === 'Java',
-    Python: item => item.curso === 'Python',
   };
 
   const FILTER_NAMES = Object.keys(FILTER_MAP);
