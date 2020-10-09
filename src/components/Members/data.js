@@ -30,7 +30,6 @@ export const members = [
       github: 'https://github.com/licensed',
       linkedin: 'https://www.linkedin.com/in/licensed/',
     },
-<<<<<<< HEAD
   },
   {
     nome: 'Tiago Augusto',
@@ -47,9 +46,7 @@ export const members = [
       linkedin: '',
     },
   },  
-=======
   
->>>>>>> d028bdf6cadf6d41655353eafa919010dfe8da4b
   {
     nome: 'Vanessa Oliveira',
     participante: 'Aluna',
