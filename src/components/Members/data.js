@@ -30,5 +30,21 @@ export const members = [
       github: 'https://github.com/licensed',
       linkedin: 'https://www.linkedin.com/in/licensed/',
     },
-  },  
+  },
+  {
+    nome: 'Maria Luísa Costa',
+    participante: 'Aluna',
+    curso: 'Front-end',
+    turno: 'noite',
+    professora: 'Simone Amorim',
+    foto: {
+      src:
+        '',
+      alt: '',
+    },
+    redesSocias: {
+      github: '',
+      linkedin: '',
+    },
+  },
 ];
