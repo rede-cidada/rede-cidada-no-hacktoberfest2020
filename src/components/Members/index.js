@@ -22,7 +22,7 @@ const Members = () => {
 
   return (
     <>
-      <Box>
+      <Box id="participantes">
         {FILTER_NAMES.map(name => (
           <Button
             key={name}

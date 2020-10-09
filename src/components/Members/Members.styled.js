@@ -18,7 +18,7 @@ export const MembersList = styled.ul`
 
 export const Box = styled(FlexBox)`
   width: 100%;
-  margin-bottom: 2rem;
+  margin: 2rem 0;
   padding: 3rem;
 
   flex-direction: row;
@@ -33,6 +33,7 @@ export const Button = styled.button`
   cursor: pointer;
   padding: 2rem 3rem;
   margin: 1rem;
+
   text-align: center;
 
   font-weight: 900;
