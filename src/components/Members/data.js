@@ -39,8 +39,8 @@ export const members = [
     professor: '',
     foto: {
       src:
-        'https://scontent.frec26-1.fna.fbcdn.net/v/t1.0-9/35766663_1981589155206921_1106722478434025472_o.jpg?_nc_cat=104&_nc_sid=09cbfe&_nc_ohc=TFBYthPHUFIAX_hYCeQ&_nc_ht=scontent.frec26-1.fna&oh=edcd7a03d8a33e55fb86fd007453f7ff&oe=5FA6A3C8',
-      alt: 'licensed',
+        'https://avatars0.githubusercontent.com/u/50677428?s=460&u=daee1236878fc93e88c208230a2b17ce18836e8c&v=4',
+      alt: 'Uma menina na frente de uma arvore',
     },
     redesSocias: {
       github: 'https://github.com/licensed',
