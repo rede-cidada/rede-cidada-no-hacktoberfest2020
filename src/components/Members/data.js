@@ -32,6 +32,21 @@ export const members = [
     },
   },
   {
+    nome: 'Tiago Augusto',
+    participante: 'Aluno',
+    curso: 'Front-end',
+    turno: 'noite',
+    professor: 'Simone',
+    foto: {
+      src:'',
+      alt: '',
+    },
+    redesSocias: {
+      github: '',
+      linkedin: '',
+    },
+  },
+  {
     nome: 'Rayani Freitas',
     participante: 'Aluna',
     foto: {
@@ -67,8 +82,8 @@ export const members = [
     professor: 'Simone',
     foto: {
       src:
-        'https://avatars1.githubusercontent.com/u/48129096?s=460&u=9ad8a362NCMhN8ebeDS39jHTMor3xJoiW7mjSK23&v=4',
-      alt: 'Mulher negra de cabelos longos',
+        '',
+      alt: '',
     },
     redesSocias: {
       github: '',
