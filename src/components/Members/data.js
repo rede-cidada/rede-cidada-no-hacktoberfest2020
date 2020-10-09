@@ -30,5 +30,21 @@ export const members = [
       github: 'https://github.com/licensed',
       linkedin: 'https://www.linkedin.com/in/licensed/',
     },
-  },  
+  },
+  {
+    nome: 'Tiago Augusto',
+    participante: 'Aluno',
+    curso: '',
+    turno: '',
+    professor: '',
+    foto: {
+      src:
+        '',
+      alt: '',
+    },
+    redesSocias: {
+      github: '',
+      linkedin: '',
+    },
+  },
 ];
