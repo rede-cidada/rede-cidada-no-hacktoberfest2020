@@ -71,7 +71,7 @@ export const members = [
       alt: 'Mulher negra de cabelos longos',
     },
     redesSocias: {
-      github: '',
+      github: 'https://github.com/anabeatriiz',
       linkedin: '',
     },
   }, 
