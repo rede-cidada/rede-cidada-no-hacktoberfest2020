@@ -34,7 +34,7 @@ export const members = [
   {
     nome: 'Tiago Augusto',
     participante: 'Aluno',
-    curso: '',
+    curso: 'Front-end',
     turno: '',
     professor: '',
     foto: {
