@@ -37,14 +37,6 @@ export const members = [
     curso: 'Front-end',
     turno: 'noite',
     professor: 'Tia Simone <3',
-    foto: {
-      src:
-        'https://media-exp1.licdn.com/dms/image/C4E03AQETNs5Dmtc3sA/profile-displayphoto-shrink_200_200/0?e=1607558400&v=beta&t=Lyh9dlECp_YS2yEF_ye_UJe07ptjycbAzrK8Ym6FLzU',
-      alt: 'Um jovem audaz em busca de seus sonhos',
-    },
-    redesSocias: {
-      github: 'https://github.com/alisonmelo',
-      linkedin: 'https://www.linkedin.com/in/alisonmtmelo/',
-    },
+    
   },  
 ];
