@@ -38,8 +38,8 @@ export const members = [
     turno: 'noite',
     professor: 'Simone',
     foto: {
-      src:'',
-      alt: '',
+      src:'https://avatars2.githubusercontent.com/u/67668631?s=460&u=2d792c3a1a5b5532116ba9d79fa6da69fd52fe76&v=4',
+      alt: 'Homem de camisa preta na igreja',
     },
     redesSocias: {
       github: '',
