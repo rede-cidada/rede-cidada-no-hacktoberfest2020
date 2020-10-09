@@ -32,11 +32,35 @@ export const members = [
     },
   },
   {
+    nome: 'Ana Beatriz',
+    participante: 'Aluna',
+    curso: 'Front-end',
+    turno: 'Noite',
+    professor: 'Simone',
+    foto: {
+      src:
+        '',
+      alt: '',
+    },
+    redesSocias: {
+      github: '',
+      linkedin: '',
+    },
+  }, 
+  {
     nome: 'Alison Melo',
     participante: 'Aluno',
     curso: 'Front-end',
     turno: 'noite',
     professor: 'Tia Simone <3',
-    
-  },  
+    foto: {
+      src:
+        '',
+      alt: '',
+    },
+    redesSocias: {
+      github: '',
+      linkedin: '',
+    },
+  },   
 ];
