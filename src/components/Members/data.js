@@ -55,8 +55,8 @@ export const members = [
       alt: 'Uma menina na frente de uma arvore',
     },
     redesSocias: {
-      github: '',
-      linkedin: '',
+      github: 'https://github.com/nessalive',
+      linkedin: 'https://www.linkedin.com/in/vanessa-oliveira-0036a4154/',
     },
   },
   {
