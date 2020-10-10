@@ -32,14 +32,29 @@ export const members = [
     },
   },
   {
-    nome: 'Israel Batista',
+    nome: 'Wendell Matheus',
     participante: 'Aluno',
-    curso: 'Front-end',
+    curso: '',
     turno: '',
     professor: '',
     foto: {
-      src:
-        '',
+        src: '',
+        alt: '',
+    },
+    redesSocias: {
+      github: '',
+      linkedin: '',
+    },
+  },
+    {
+    nome: 'Israel Batista',
+    participante: 'Aluno',
+    curso: 'Front-end',
+    turno: 'Noite',
+    professor: 'Simone',
+    foto: {
+      src: '',
+      alt: '',
     },
      redesSocias: {
       github: '',
@@ -53,6 +68,7 @@ export const members = [
     turno: 'noite',
     professor: 'Simone',
     foto: {
+      src:'',
       src: '',
       alt: '',
     },
@@ -60,7 +76,7 @@ export const members = [
       github: '',
       linkedin: '',
     },
-  }, 
+  },  
   {
     nome: 'Rayani Freitas',
     participante: 'Aluna',
@@ -120,7 +136,7 @@ export const members = [
       github: 'https://github.com/alisonmelo',
       linkedin: 'https://www.linkedin.com/in/alisonmtmelo/',
     },
-  },
+  },      
   {
     nome: 'Markus Dennys',
     participante: 'Aluno',
@@ -137,16 +153,20 @@ export const members = [
       linkedin: 'https://www.linkedin.com/in/markus-dennys-abb8551ab/',
     },
   },   
-{
-  professor: 'Tia Simone <3',
+  {
+    nome: 'Mayhhara Morais',
+    participante: 'Aluna',
+    curso: '',
+    turno: '',
+    professor: '',
     foto: {
-    src:
-    '',
+      src:
+        '',
       alt: '',
     },
-  redesSocias: {
-    github: '',
+    redesSocias: {
+      github: '',
       linkedin: '',
     },
-},   
+  },  
 ];
