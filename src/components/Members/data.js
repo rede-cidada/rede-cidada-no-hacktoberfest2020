@@ -75,11 +75,11 @@ export const members = [
     },
   },
   {
-    nome: 'Ana Beatriz',
+    nome: 'Maria Luísa Costa',
     participante: 'Aluna',
     curso: 'Front-end',
-    turno: 'Noite',
-    professor: 'Simone',
+    turno: 'noite',
+    professora: 'Simone Amorim',
     foto: {
       src:
         '',
@@ -89,6 +89,7 @@ export const members = [
       github: '',
       linkedin: '',
     },
+  },  
   }, 
   {
     nome: 'Markus Dennys',
