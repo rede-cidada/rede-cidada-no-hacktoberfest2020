@@ -36,7 +36,7 @@ export const members = [
     participante: 'Aluno',
     curso: 'Front-end',
     turno: 'noite',  
-    professor: 'Simone',
+    professor: 'Simone Amorim',
     foto: {
         src: '',
         alt: '',
