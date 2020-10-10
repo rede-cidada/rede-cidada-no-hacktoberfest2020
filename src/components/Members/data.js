@@ -61,6 +61,7 @@ export const members = [
     redesSocias: {
       github: 'https://github.com/simoneas02',
       linkedin: 'https://www.linkedin.com/in/simoneas02/',
+    },
 =======
         'https://avatars0.githubusercontent.com/u/50677428?s=460&u=daee1236878fc93e88c208230a2b17ce18836e8c&v=4',
       alt: 'Uma menina na frente de uma arvore',
