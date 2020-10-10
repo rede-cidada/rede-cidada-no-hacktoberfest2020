@@ -120,24 +120,33 @@ export const members = [
       github: '',
       linkedin: '',
     },
-  },    
+  },
   {
     nome: 'Markus Dennys',
     participante: 'Aluno',
     curso: 'Front-end',
     turno: 'noite',
     professora: 'Simone Amorim',
-  },
-  {
-    professor: 'Tia Simone <3',
     foto: {
       src:
-        '',
-      alt: '',
+        'https://avatars0.githubusercontent.com/u/58551483?s=400&u=1571a94aa96fcac9d742b207b1ebd7254eaa2123&v=4',
+      alt: 'Jovem alto de jaqueta em frente ao lago! ',
     },
     redesSocias: {
       github: '',
       linkedin: '',
     },
   },   
+{
+  professor: 'Tia Simone <3',
+    foto: {
+    src:
+    '',
+      alt: '',
+    },
+  redesSocias: {
+    github: '',
+      linkedin: '',
+    },
+},   
 ];
