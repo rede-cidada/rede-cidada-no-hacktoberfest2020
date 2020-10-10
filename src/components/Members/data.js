@@ -39,12 +39,12 @@ export const members = [
     professora: 'Simone Amorim',
     foto: {
       src:
-        '',
-      alt: '',
+        'https://avatars0.githubusercontent.com/u/63320754?s=460&u=f02a453bb104adcee72ac1923c19b53847724a09&v=4',
+      alt: 'Foto do perfil do Github de Maria Luísa',
     },
     redesSocias: {
-      github: '',
-      linkedin: '',
+      github: 'https://github.com/maluhcosta',
+      linkedin: 'https://www.linkedin.com/in/maluhcosta/',
     },
   },  
 ];
