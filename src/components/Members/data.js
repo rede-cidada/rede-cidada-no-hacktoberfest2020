@@ -30,31 +30,31 @@ export const members = [
       github: 'https://github.com/licensed',
       linkedin: 'https://www.linkedin.com/in/licensed/',
     },
-  },
+  },  
   {
-    nome: 'Wendell Matheus',
-    participante: 'Aluno',
-    curso: '',
-    turno: '',
+    nome: 'Vanessa Oliveira',
+    participante: 'Aluna',
+    curso: 'Front-end',
+    turno: 'noite',
     professor: '',
     foto: {
-        src: '',
-        alt: '',
+      src:
+        'https://avatars0.githubusercontent.com/u/50677428?s=460&u=daee1236878fc93e88c208230a2b17ce18836e8c&v=4',
+        alt: 'Uma menina na frente da arvore',
     },
-    redesSocias: {
-      github: '',
-      linkedin: '',
+     redesSocias: {
+      github: 'https://github.com/nessalive',
+      linkedin: 'https://www.linkedin.com/in/vanessa-oliveira-0036a4154/',
     },
   },
-    {
+  {
     nome: 'Israel Batista',
     participante: 'Aluno',
     curso: 'Front-end',
-    turno: 'Noite',
-    professor: 'Simone',
+    turno: '',
+    professor: '',
     foto: {
-      src:
-        'https://avatars2.githubusercontent.com/u/4581552?s=460&u=2a0ab4fa5595597d63f35fe86213dc81cf4ff7af&v=4',
+      src: 'https://avatars2.githubusercontent.com/u/4581552?s=460&u=2a0ab4fa5595597d63f35fe86213dc81cf4ff7af&v=4',
         alt: 'Um rapaz moreno de camiseta branca'
     },
      redesSocias: {
@@ -112,8 +112,8 @@ export const members = [
     nome: 'Maria Luísa Costa',
     participante: 'Aluna',
     curso: 'Front-end',
-    turno: 'noite',
-    professora: 'Simone Amorim',
+    turno: 'Noite',
+    professor: 'Simone',
     foto: {
       src:
         'https://avatars0.githubusercontent.com/u/63320754?s=460&u=f02a453bb104adcee72ac1923c19b53847724a09&v=4',
@@ -124,7 +124,6 @@ export const members = [
       linkedin: 'https://www.linkedin.com/in/maluhcosta/',
     },
   },
-
   {
     nome: 'Alison Melo',
     participante: 'Aluno',
@@ -153,11 +152,11 @@ export const members = [
     foto: {
       src:
         'https://avatars0.githubusercontent.com/u/58551483?s=400&u=1571a94aa96fcac9d742b207b1ebd7254eaa2123&v=4',
-      alt: 'Jovem alto de jaqueta,  em frente a um lago! ',
+      alt: 'Jovem alto de jaqueta em frente ao lago! ',
     },
     redesSocias: {
-      github: 'https://github.com/markDennys',
-      linkedin: 'https://www.linkedin.com/in/markus-dennys-abb8551ab/',
+      github: '',
+      linkedin: '',
     },
   },   
   {
