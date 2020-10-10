@@ -23,11 +23,11 @@ export const members = [
     professor: '',
     foto: {
       src:'',
-      alt: '',
+        alt: '',
     },
     redesSocias: {
       github: '',
       linkedin: '',
     },
-  },  
-  ];
+    ];
+
