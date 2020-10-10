@@ -32,14 +32,29 @@ export const members = [
     },
   },
   {
+    nome: 'Wendell Matheus',
+    participante: 'Aluno',
+    curso: '',
+    turno: '',
+    professor: '',
+    foto: {
+        src: '',
+        alt: '',
+    },
+    redesSocias: {
+      github: '',
+      linkedin: '',
+    },
+  },
+    {
     nome: 'Israel Batista',
     participante: 'Aluno',
     curso: 'Front-end',
     turno: 'Noite',
     professor: 'Simone',
     foto: {
-      src:
-        '',
+      src: '',
+      alt: '',
     },
      redesSocias: {
       github: '',
@@ -61,7 +76,7 @@ export const members = [
       github: '',
       linkedin: '',
     },
-  }, 
+  },  
   {
     nome: 'Rayani Freitas',
     participante: 'Aluna',
@@ -138,15 +153,19 @@ export const members = [
       linkedin: 'https://www.linkedin.com/in/markus-dennys-abb8551ab/',
     },
   },   
-{
-  professor: 'Tia Simone <3',
+  {
+    nome: 'Mayhhara Morais',
+    participante: 'Aluna',
+    curso: '',
+    turno: '',
+    professor: '',
     foto: {
-    src:
-    '',
+      src:
+        '',
       alt: '',
     },
-  redesSocias: {
-    github: '',
+    redesSocias: {
+      github: '',
       linkedin: '',
     },
 },  
@@ -166,5 +185,4 @@ export const members = [
     linkedin: '',
   },
 },  
-
 ];
