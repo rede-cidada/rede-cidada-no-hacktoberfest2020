@@ -32,6 +32,11 @@ export const members = [
     },
   },  
   {
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> e5efbd2b7b993cc35cab8b7bea0f7cfb5bc39be1
     nome: 'Vanessa Oliveira',
     participante: 'Aluna',
     curso: 'Front-end',
@@ -48,14 +53,32 @@ export const members = [
     },
   },
   {
+<<<<<<< HEAD
+>>>>>>> 66d60165bb8a9f451c7430188c9155ff2c6ea682
+=======
+>>>>>>> e5efbd2b7b993cc35cab8b7bea0f7cfb5bc39be1
     nome: 'Israel Batista',
     participante: 'Aluno',
     curso: 'Front-end',
     turno: '',
     professor: '',
     foto: {
+<<<<<<< HEAD
+<<<<<<< HEAD
+      src:
+<<<<<<< HEAD
+        '',
+=======
+        'https://avatars2.githubusercontent.com/u/4581552?s=460&u=2a0ab4fa5595597d63f35fe86213dc81cf4ff7af&v=4',
+=======
+      src: 'https://avatars2.githubusercontent.com/u/4581552?s=460&u=2a0ab4fa5595597d63f35fe86213dc81cf4ff7af&v=4',
+>>>>>>> 66d60165bb8a9f451c7430188c9155ff2c6ea682
+        alt: 'Um rapaz moreno de camiseta branca'
+>>>>>>> 10da66867d68fddedf26af52cdc74d7f01eb63dc
+=======
       src: 'https://avatars2.githubusercontent.com/u/4581552?s=460&u=2a0ab4fa5595597d63f35fe86213dc81cf4ff7af&v=4',
         alt: 'Um rapaz moreno de camiseta branca',
+>>>>>>> e5efbd2b7b993cc35cab8b7bea0f7cfb5bc39be1
     },
      redesSocias: {
       github: 'https://github.com/Israelfer',
