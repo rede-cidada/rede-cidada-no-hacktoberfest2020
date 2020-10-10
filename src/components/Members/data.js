@@ -134,7 +134,7 @@ export const members = [
     },
     redesSocias: {
       github: 'https://github.com/alisonmelo',
-      linkedin: '',
+      linkedin: 'https://www.linkedin.com/in/alisonmtmelo/',
     },
   },      
   {
