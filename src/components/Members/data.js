@@ -35,8 +35,8 @@ export const members = [
     nome: 'Israel Batista',
     participante: 'Aluno',
     curso: 'Front-end',
-    turno: '',
-    professor: '',
+    turno: 'Noite',
+    professor: 'Simone',
     foto: {
       src:
         '',
@@ -53,6 +53,7 @@ export const members = [
     turno: 'noite',
     professor: 'Simone',
     foto: {
+      src:'',
       src: '',
       alt: '',
     },
@@ -120,7 +121,7 @@ export const members = [
       github: 'https://github.com/alisonmelo',
       linkedin: '',
     },
-  },
+  },      
   {
     nome: 'Markus Dennys',
     participante: 'Aluno',
