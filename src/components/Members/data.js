@@ -34,9 +34,9 @@ export const members = [
   {
     nome: 'Wendell Matheus',
     participante: 'Aluno',
-    curso: '',
-    turno: '',
-    professor: '',
+    curso: 'Front-end',
+    turno: 'noite',  
+    professor: 'Simone',
     foto: {
       src: '',
       alt: '',
