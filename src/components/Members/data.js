@@ -140,4 +140,20 @@ export const members = [
       linkedin: '',
     },
   },   
+  {
+    nome: 'Mayhhara Morais',
+    participante: 'Aluna',
+    curso: '',
+    turno: '',
+    professor: '',
+    foto: {
+      src:
+        '',
+      alt: '',
+    },
+    redesSocias: {
+      github: '',
+      linkedin: '',
+    },
+  },  
 ];
