@@ -39,11 +39,16 @@ export const members = [
     professor: '',
     foto: {
       src:
+<<<<<<< HEAD
         '',
+=======
+        'https://avatars2.githubusercontent.com/u/4581552?s=460&u=2a0ab4fa5595597d63f35fe86213dc81cf4ff7af&v=4',
+        alt: 'Um rapaz moreno de camiseta branca'
+>>>>>>> 10da66867d68fddedf26af52cdc74d7f01eb63dc
     },
      redesSocias: {
-      github: '',
-      linkedin: '',
+      github: 'https://github.com/Israelfer',
+      linkedin: 'https://www.linkedin.com/in/israel-batista/',
     },
   },
   {
@@ -149,4 +154,20 @@ export const members = [
       linkedin: '',
     },
 },   
+{
+  nome: 'Ana Beatriz',
+  participante: 'Aluna',
+  curso: 'Front-end',
+  turno: 'noite',
+  professora: '',
+  foto: {
+    src:
+      '',
+    alt: '',
+  },
+  redesSocias: {
+    github: '',
+    linkedin: '',
+  },
+},  
 ];
