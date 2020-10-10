@@ -32,6 +32,21 @@ export const members = [
     },
   },
   {
+    nome: 'Israel Batista',
+    participante: 'Aluno',
+    curso: 'Front-end',
+    turno: '',
+    professor: '',
+    foto: {
+      src:
+        '',
+    },
+     redesSocias: {
+      github: '',
+      linkedin: '',
+    },
+  },
+  {
     nome: 'Tiago Augusto',
     participante: 'Aluno',
     curso: 'Front-end',
@@ -45,7 +60,7 @@ export const members = [
       github: '',
       linkedin: '',
     },
-  },
+  }, 
   {
     nome: 'Rayani Freitas',
     participante: 'Aluna',
@@ -90,7 +105,6 @@ export const members = [
       linkedin: 'https://www.linkedin.com/in/maluhcosta/',
     },
   },
-
   {
     nome: 'Alison Melo',
     participante: 'Aluno',
@@ -123,7 +137,6 @@ export const members = [
       linkedin: 'https://www.linkedin.com/in/markus-dennys-abb8551ab/',
     },
   },   
- 
 {
   professor: 'Tia Simone <3',
     foto: {
