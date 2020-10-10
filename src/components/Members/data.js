@@ -75,7 +75,7 @@ export const members = [
       alt: '',
     },
     redesSocias: {
-      github: '',
+      github: 'https://github.com/alisonmelo',
       linkedin: '',
     },
   },   
