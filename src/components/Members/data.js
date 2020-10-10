@@ -32,28 +32,12 @@ export const members = [
     },
   },
   {
-    nome: 'Israel Batista',
-    participante: 'Aluno',
-    curso: 'Front-end',
-    turno: 'Noite',
-    professor: 'Simone',
-    foto: {
-      src:
-        '',
-    },
-     redesSocias: {
-      github: '',
-      linkedin: '',
-    },
-  },
-  {
     nome: 'Tiago Augusto',
     participante: 'Aluno',
     curso: 'Front-end',
     turno: 'noite',
     professor: 'Simone',
     foto: {
-      src:'',
       src: '',
       alt: '',
     },
@@ -61,7 +45,7 @@ export const members = [
       github: '',
       linkedin: '',
     },
-  }, 
+  },
   {
     nome: 'Rayani Freitas',
     participante: 'Aluna',
@@ -72,7 +56,7 @@ export const members = [
       src:
 <<<<<<< HEAD
         'https://media-exp1.licdn.com/dms/image/C4E03AQHMrDmh3LkV-g/profile-displayphoto-shrink_400_400/0?e=1606953600&v=beta&t=mzvA93aFahZR0CWM2aq5Lf0ZSfeLKtUrQQMjk_Erk0o',
-      alt: 'Uma mulher palestrando em um grande evento',
+      alt: 'aluna start',
     },
     redesSocias: {
       github: 'https://github.com/simoneas02',
@@ -118,6 +102,7 @@ export const members = [
       linkedin: 'https://www.linkedin.com/in/maluhcosta/',
     },
   },
+
   {
     nome: 'Alison Melo',
     participante: 'Aluno',
@@ -130,36 +115,27 @@ export const members = [
       alt: '',
     },
     redesSocias: {
-      github: 'https://github.com/alisonmelo',
+      github: '',
       linkedin: '',
     },
-  },      
+  },   
   {
     nome: 'Markus Dennys',
     participante: 'Aluno',
     curso: 'Front-end',
     turno: 'noite',
     professora: 'Simone Amorim',
+  },
+  {
+    professor: 'Tia Simone <3',
     foto: {
       src:
-        'https://avatars0.githubusercontent.com/u/58551483?s=400&u=1571a94aa96fcac9d742b207b1ebd7254eaa2123&v=4',
-      alt: 'Jovem alto de jaqueta,  em frente a um lago! ',
-    },
-    redesSocias: {
-      github: 'https://github.com/markDennys',
-      linkedin: 'https://www.linkedin.com/in/markus-dennys-abb8551ab/',
-    },
-  },   
-{
-  professor: 'Tia Simone <3',
-    foto: {
-    src:
-    '',
+        '',
       alt: '',
     },
-  redesSocias: {
-    github: '',
+    redesSocias: {
+      github: '',
       linkedin: '',
     },
-},   
+  },   
 ];
