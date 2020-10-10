@@ -30,13 +30,25 @@ export const members = [
       github: 'https://github.com/licensed',
       linkedin: 'https://www.linkedin.com/in/licensed/',
     },
-  },  
+  },
   {
-    nome: 'Vanessa Oliveira',
-    participante: 'Aluna',
+    nome: 'Tiago Augusto',
+    participante: 'Aluno',
     curso: 'Front-end',
     turno: 'noite',
-    professor: '',
+    professor: 'Simone',
+    foto: {
+      src:'',
+      alt: '',
+    },
+    redesSocias: {
+      github: '',
+      linkedin: '',
+    },
+  },
+  {
+    nome: 'Rayani Freitas',
+    participante: 'Aluna',
     foto: {
       src:
         'https://avatars0.githubusercontent.com/u/50677428?s=460&u=daee1236878fc93e88c208230a2b17ce18836e8c&v=4',
@@ -48,11 +60,26 @@ export const members = [
     },
   },
   {
-    nome: 'Ana Beatriz',
+    nome: 'Vanessa Oliveira',
     participante: 'Aluna',
     curso: 'Front-end',
-    turno: 'Noite',
-    professor: 'Simone',
+    turno: 'noite',
+    professor: '',
+    foto: {
+      src:'https://media-exp1.licdn.com/dms/image/C4E03AQHMrDmh3LkV-g/profile-displayphoto-shrink_400_400/0?e=1606953600&v=beta&t=mzvA93aFahZR0CWM2aq5Lf0ZSfeLKtUrQQMjk_Erk0o',
+      alt: 'Uma mulher palestrando em um grande evento',
+    },
+    redesSocias: {
+      github: 'https://github.com/simoneas02',
+      linkedin: 'https://www.linkedin.com/in/simoneas02/',
+    },
+  },
+  {
+    nome: 'Maria Luísa Costa',
+    participante: 'Aluna',
+    curso: 'Front-end',
+    turno: 'noite',
+    professora: 'Simone Amorim',
     foto: {
       src:
         '',
@@ -62,5 +89,38 @@ export const members = [
       github: '',
       linkedin: '',
     },
+  },  
   }, 
+  {
+    nome: 'Alison Melo',
+    participante: 'Aluno',
+    curso: 'Front-end',
+    turno: 'noite',
+    professor: 'Tia Simone <3',
+    foto: {
+      src:
+        '',
+      alt: '',
+    },
+    redesSocias: {
+      github: '',
+      linkedin: '',
+    },
+  },   
+  {
+    nome: 'Markus Dennys',
+    participante: 'Aluno',
+    curso: 'Front-end',
+    turno: 'noite',
+    professor: 'Tia Simone <3',
+    foto: {
+      src:
+        '',
+      alt: '',
+    },
+    redesSocias: {
+      github: '',
+      linkedin: '',
+    },
+  },   
 ];
