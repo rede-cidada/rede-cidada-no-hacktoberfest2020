@@ -76,7 +76,7 @@ export const members = [
       github: '',
       linkedin: '',
     },
-  },
+  }, 
   {
     nome: 'Rayani Freitas',
     participante: 'Aluna',
@@ -132,14 +132,14 @@ export const members = [
     professor: 'Tia Simone <3',
     foto: {
       src:
-        '',
+        'https://media-exp1.licdn.com/dms/image/C4E03AQETNs5Dmtc3sA/profile-displayphoto-shrink_200_200/0?e=1607558400&v=beta&t=Lyh9dlECp_YS2yEF_ye_UJe07ptjycbAzrK8Ym6FLzU',
       alt: '',
     },
     redesSocias: {
       github: 'https://github.com/alisonmelo',
       linkedin: 'https://www.linkedin.com/in/alisonmtmelo/',
     },
-  },   
+  },
   {
     nome: 'Markus Dennys',
     participante: 'Aluno',
@@ -166,15 +166,14 @@ export const members = [
     turno: 'Noite',
     professor: 'Raissa',
     foto: {
-      src:
-        'https://avatars2.githubusercontent.com/u/69424067?s=460&u=78abcf988e5f095bb4478029ac2f80b86b652e44&v=4',
+      src: 'https://avatars2.githubusercontent.com/u/69424067?s=460&u=78abcf988e5f095bb4478029ac2f80b86b652e44&v=4',
       alt: 'Foto perfil GitHub mflilian',
     },
     redesSocias: {
       github: 'https://github.com/mflilian',
       linkedin: '',
     },
-},  
+},   
 {
   nome: 'Ana Beatriz',
   participante: 'Aluna',
