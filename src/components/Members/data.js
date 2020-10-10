@@ -32,14 +32,29 @@ export const members = [
     },
   },
   {
-    nome: 'Israel Batista',
+    nome: 'Wendell Matheus',
     participante: 'Aluno',
-    curso: 'Front-end',
+    curso: '',
     turno: '',
     professor: '',
     foto: {
-      src:
-        '',
+        src: '',
+        alt: '',
+    },
+    redesSocias: {
+      github: '',
+      linkedin: '',
+    },
+  },
+    {
+    nome: 'Israel Batista',
+    participante: 'Aluno',
+    curso: 'Front-end',
+    turno: 'Noite',
+    professor: 'Simone',
+    foto: {
+      src: '',
+      alt: '',
     },
      redesSocias: {
       github: '',
@@ -53,6 +68,7 @@ export const members = [
     turno: 'noite',
     professor: 'Simone',
     foto: {
+      src:'',
       src: '',
       alt: '',
     },
@@ -60,7 +76,7 @@ export const members = [
       github: '',
       linkedin: '',
     },
-  }, 
+  },  
   {
     nome: 'Rayani Freitas',
     participante: 'Aluna',
@@ -117,10 +133,10 @@ export const members = [
       alt: '',
     },
     redesSocias: {
-      github: '',
+      github: 'https://github.com/alisonmelo',
       linkedin: '',
     },
-  },
+  },      
   {
     nome: 'Markus Dennys',
     participante: 'Aluno',
@@ -130,11 +146,11 @@ export const members = [
     foto: {
       src:
         'https://avatars0.githubusercontent.com/u/58551483?s=400&u=1571a94aa96fcac9d742b207b1ebd7254eaa2123&v=4',
-      alt: 'Jovem alto de jaqueta em frente ao lago! ',
+      alt: 'Jovem alto de jaqueta,  em frente a um lago! ',
     },
     redesSocias: {
-      github: '',
-      linkedin: '',
+      github: 'https://github.com/markDennys',
+      linkedin: 'https://www.linkedin.com/in/markus-dennys-abb8551ab/',
     },
   },   
   {
@@ -152,5 +168,21 @@ export const members = [
       github: '',
       linkedin: '',
     },
-  },  
+},  
+{
+  nome: 'Ana Beatriz',
+  participante: 'Aluna',
+  curso: 'Front-end',
+  turno: 'noite',
+  professora: '',
+  foto: {
+    src:
+      '',
+    alt: '',
+  },
+  redesSocias: {
+    github: '',
+    linkedin: '',
+  },
+},  
 ];
