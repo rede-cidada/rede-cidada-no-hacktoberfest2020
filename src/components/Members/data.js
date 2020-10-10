@@ -32,18 +32,27 @@ export const members = [
     },
   },  
   {
-<<<<<<< HEAD
     nome: 'Vanessa Oliveira',
     participante: 'Aluna',
     curso: 'Front-end',
     turno: 'noite',
     professor: '',
-=======
+    foto: {
+      src:
+        'https://avatars0.githubusercontent.com/u/50677428?s=460&u=daee1236878fc93e88c208230a2b17ce18836e8c&v=4',
+        alt: 'Uma menina na frente da arvore',
+    },
+     redesSocias: {
+      github: 'https://github.com/nessalive',
+      linkedin: 'https://www.linkedin.com/in/vanessa-oliveira-0036a4154/',
+    },
+  },
+  {
     nome: 'Israel Batista',
     participante: 'Aluno',
     curso: 'Front-end',
-    turno: 'Noite',
-    professor: 'Simone',
+    turno: '',
+    professor: '',
     foto: {
       src:
         '',
@@ -60,7 +69,6 @@ export const members = [
     turno: 'noite',
     professor: 'Simone',
     foto: {
-      src:'',
       src: '',
       alt: '',
     },
@@ -72,7 +80,6 @@ export const members = [
   {
     nome: 'Rayani Freitas',
     participante: 'Aluna',
->>>>>>> 1dde5346f7e0241c6be7ead0db96cb302c1032fb
     foto: {
       src:
         'https://avatars0.githubusercontent.com/u/50677428?s=460&u=daee1236878fc93e88c208230a2b17ce18836e8c&v=4',
@@ -98,10 +105,8 @@ export const members = [
       github: 'https://github.com/maluhcosta',
       linkedin: 'https://www.linkedin.com/in/maluhcosta/',
     },
-<<<<<<< HEAD
   }, 
-=======
-  },
+
   {
     nome: 'Alison Melo',
     participante: 'Aluno',
@@ -114,10 +119,10 @@ export const members = [
       alt: '',
     },
     redesSocias: {
-      github: 'https://github.com/alisonmelo',
+      github: '',
       linkedin: '',
     },
-  },      
+  },
   {
     nome: 'Markus Dennys',
     participante: 'Aluno',
@@ -127,11 +132,11 @@ export const members = [
     foto: {
       src:
         'https://avatars0.githubusercontent.com/u/58551483?s=400&u=1571a94aa96fcac9d742b207b1ebd7254eaa2123&v=4',
-      alt: 'Jovem alto de jaqueta,  em frente a um lago! ',
+      alt: 'Jovem alto de jaqueta em frente ao lago! ',
     },
     redesSocias: {
-      github: 'https://github.com/markDennys',
-      linkedin: 'https://www.linkedin.com/in/markus-dennys-abb8551ab/',
+      github: '',
+      linkedin: '',
     },
   },   
 {
@@ -146,5 +151,4 @@ export const members = [
       linkedin: '',
     },
 },   
->>>>>>> 1dde5346f7e0241c6be7ead0db96cb302c1032fb
 ];
