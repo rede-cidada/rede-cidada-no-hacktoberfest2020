@@ -32,6 +32,21 @@ export const members = [
     },
   },
   {
+    nome: 'Tiago Augusto',
+    participante: 'Aluno',
+    curso: 'Front-end',
+    turno: 'noite',
+    professor: 'Simone',
+    foto: {
+      src: '',
+      alt: '',
+    },
+    redesSocias: {
+      github: '',
+      linkedin: '',
+    },
+  },
+  {
     nome: 'Rayani Freitas',
     participante: 'Aluna',
     curso: 'Front-end',
@@ -39,12 +54,21 @@ export const members = [
     professor: 'Simone Amorim',
     foto: {
       src:
+<<<<<<< HEAD
         'https://media-exp1.licdn.com/dms/image/C4E03AQHMrDmh3LkV-g/profile-displayphoto-shrink_400_400/0?e=1606953600&v=beta&t=mzvA93aFahZR0CWM2aq5Lf0ZSfeLKtUrQQMjk_Erk0o',
       alt: 'Uma mulher palestrando em um grande evento',
     },
     redesSocias: {
       github: 'https://github.com/simoneas02',
       linkedin: 'https://www.linkedin.com/in/simoneas02/',
+=======
+        'https://avatars0.githubusercontent.com/u/50677428?s=460&u=daee1236878fc93e88c208230a2b17ce18836e8c&v=4',
+      alt: 'Uma menina na frente de uma arvore',
+    },
+    redesSocias: {
+      github: 'https://github.com/nessalive',
+      linkedin: 'https://www.linkedin.com/in/vanessa-oliveira-0036a4154/',
+>>>>>>> b8a1b7e32e9624245f654eeab17eb93c723c3ac7
     },
   {
     nome: 'Vanessa Oliveira',
@@ -53,7 +77,7 @@ export const members = [
     turno: 'noite',
     professor: '',
     foto: {
-      src:'https://media-exp1.licdn.com/dms/image/C4E03AQHMrDmh3LkV-g/profile-displayphoto-shrink_400_400/0?e=1606953600&v=beta&t=mzvA93aFahZR0CWM2aq5Lf0ZSfeLKtUrQQMjk_Erk0o',
+      src: 'https://media-exp1.licdn.com/dms/image/C4E03AQHMrDmh3LkV-g/profile-displayphoto-shrink_400_400/0?e=1606953600&v=beta&t=mzvA93aFahZR0CWM2aq5Lf0ZSfeLKtUrQQMjk_Erk0o',
       alt: 'Uma mulher palestrando em um grande evento',
     },
     redesSocias: {
@@ -62,23 +86,55 @@ export const members = [
     },
   },
   {
-    nome: 'Ana Beatriz',
+    nome: 'Maria Luísa Costa',
     participante: 'Aluna',
     curso: 'Front-end',
-    turno: 'Noite',
-    professor: 'Simone',
+    turno: 'noite',
+    professora: 'Simone Amorim',
     foto: {
       src:
-        'https://avatars1.githubusercontent.com/u/48129096?s=460&u=9ad8a362NCMhN8ebeDS39jHTMor3xJoiW7mjSK23&v=4',
-      alt: 'Mulher negra de cabelos longos',
+        'https://avatars0.githubusercontent.com/u/63320754?s=460&u=f02a453bb104adcee72ac1923c19b53847724a09&v=4',
+      alt: 'Foto do perfil do Github de Maria Luísa',
+    },
+    redesSocias: {
+      github: 'https://github.com/maluhcosta',
+      linkedin: 'https://www.linkedin.com/in/maluhcosta/',
+    },
+  },
+
+  {
+    nome: 'Alison Melo',
+    participante: 'Aluno',
+    curso: 'Front-end',
+    turno: 'noite',
+    professor: 'Tia Simone <3',
+    foto: {
+      src:
+        '',
+      alt: '',
     },
     redesSocias: {
       github: '',
       linkedin: '',
     },
-  }, 
+  },   
   {
     nome: 'Markus Dennys',
     participante: 'Aluno',
+    curso: 'Front-end',
+    turno: 'noite',
+    professora: 'Simone Amorim',
   },
+  {
+    professor: 'Tia Simone <3',
+    foto: {
+      src:
+        '',
+      alt: '',
+    },
+    redesSocias: {
+      github: '',
+      linkedin: '',
+    },
+  },   
 ];
