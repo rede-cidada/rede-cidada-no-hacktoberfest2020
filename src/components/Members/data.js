@@ -168,5 +168,21 @@ export const members = [
       github: '',
       linkedin: '',
     },
-  },  
+},  
+{
+  nome: 'Ana Beatriz',
+  participante: 'Aluna',
+  curso: 'Front-end',
+  turno: 'noite',
+  professora: '',
+  foto: {
+    src:
+      '',
+    alt: '',
+  },
+  redesSocias: {
+    github: '',
+    linkedin: '',
+  },
+},  
 ];
