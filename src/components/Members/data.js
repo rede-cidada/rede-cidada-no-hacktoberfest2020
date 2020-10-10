@@ -43,8 +43,8 @@ export const members = [
         alt: 'Um rapaz moreno de camiseta branca'
     },
      redesSocias: {
-      github: '',
-      linkedin: '',
+      github: 'https://github.com/Israelfer',
+      linkedin: 'https://www.linkedin.com/in/israel-batista/',
     },
   },
   {
