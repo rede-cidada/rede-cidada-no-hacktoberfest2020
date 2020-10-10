@@ -167,6 +167,25 @@ export const members = [
     professor: 'Tia Simone <3',
     foto: {
       src:
+<<<<<<< HEAD
+=======
+        'https://avatars0.githubusercontent.com/u/58551483?s=400&u=1571a94aa96fcac9d742b207b1ebd7254eaa2123&v=4',
+      alt: 'Jovem alto de jaqueta,  em frente a um lago! ',
+    },
+    redesSocias: {
+      github: 'https://github.com/markDennys',
+      linkedin: 'https://www.linkedin.com/in/markus-dennys-abb8551ab/',
+    },
+  },   
+  {
+    nome: 'Mayhhara Morais',
+    participante: 'Aluna',
+    curso: '',
+    turno: '',
+    professor: '',
+    foto: {
+      src:
+>>>>>>> 3d215fe2bb9eca17a6b0fa3de112fd617bff0fd5
         '',
       alt: '',
     },
@@ -174,5 +193,9 @@ export const members = [
       github: '',
       linkedin: '',
     },
+<<<<<<< HEAD
   },   
+=======
+  },  
+>>>>>>> 3d215fe2bb9eca17a6b0fa3de112fd617bff0fd5
 ];
