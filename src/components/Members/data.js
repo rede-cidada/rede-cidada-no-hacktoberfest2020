@@ -55,7 +55,7 @@ export const members = [
     professor: '',
     foto: {
       src: 'https://avatars2.githubusercontent.com/u/4581552?s=460&u=2a0ab4fa5595597d63f35fe86213dc81cf4ff7af&v=4',
-        alt: 'Um rapaz moreno de camiseta branca'
+        alt: 'Um rapaz moreno de camiseta branca',
     },
      redesSocias: {
       github: 'https://github.com/Israelfer',
@@ -76,13 +76,31 @@ export const members = [
       github: '',
       linkedin: '',
     },
-  }, 
+  },
   {
     nome: 'Rayani Freitas',
     participante: 'Aluna',
+    curso: 'Front-end',
+    turno: 'noite',
+    professor: 'Simone Amorim',
     foto: {
       src:
-        'https://avatars0.githubusercontent.com/u/50677428?s=460&u=daee1236878fc93e88c208230a2b17ce18836e8c&v=4',
+        'https://media-exp1.licdn.com/dms/image/C4E03AQHMrDmh3LkV-g/profile-displayphoto-shrink_400_400/0?e=1606953600&v=beta&t=mzvA93aFahZR0CWM2aq5Lf0ZSfeLKtUrQQMjk_Erk0o',
+      alt: 'aluna start',
+    },
+    redesSocias: {
+      github: 'https://github.com/simoneas02',
+      linkedin: 'https://www.linkedin.com/in/simoneas02/',
+    },
+    },
+  {
+    nome: 'Vanessa Oliveira',
+    participante: 'Aluna',
+    curso: 'Front-end',
+    turno: 'noite',
+    professor: '',
+    foto: {
+      'https://avatars0.githubusercontent.com/u/50677428?s=460&u=daee1236878fc93e88c208230a2b17ce18836e8c&v=4',
       alt: 'Uma menina na frente de uma arvore',
     },
     redesSocias: {
@@ -91,7 +109,7 @@ export const members = [
     },
   },
   {
-    nome: 'Ana Beatriz',
+    nome: 'Maria Luísa Costa',
     participante: 'Aluna',
     curso: 'Front-end',
     turno: 'Noite',
@@ -105,8 +123,7 @@ export const members = [
       github: 'https://github.com/maluhcosta',
       linkedin: 'https://www.linkedin.com/in/maluhcosta/',
     },
-  }, 
-
+  },
   {
     nome: 'Alison Melo',
     participante: 'Aluno',
@@ -122,13 +139,16 @@ export const members = [
       github: 'https://github.com/alisonmelo',
       linkedin: 'https://www.linkedin.com/in/alisonmtmelo/',
     },
-  },
+  },   
   {
     nome: 'Markus Dennys',
     participante: 'Aluno',
     curso: 'Front-end',
     turno: 'noite',
     professora: 'Simone Amorim',
+  },
+  {
+    professor: 'Tia Simone <3',
     foto: {
       src:
         'https://avatars0.githubusercontent.com/u/58551483?s=400&u=1571a94aa96fcac9d742b207b1ebd7254eaa2123&v=4',
