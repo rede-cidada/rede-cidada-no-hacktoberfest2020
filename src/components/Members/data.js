@@ -171,7 +171,7 @@ export const members = [
       alt: 'Foto perfil GitHub mflilian',
     },
     redesSocias: {
-      github: '',
+      github: 'https://github.com/mflilian',
       linkedin: '',
     },
 },  
