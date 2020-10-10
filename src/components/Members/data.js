@@ -33,12 +33,15 @@ export const members = [
   },  
   {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> e5efbd2b7b993cc35cab8b7bea0f7cfb5bc39be1
     nome: 'Vanessa Oliveira',
     participante: 'Aluna',
     curso: 'Front-end',
     turno: 'noite',
-    professor: '',
+    professor: 'Simone Amorin',
     foto: {
       src:
         'https://avatars0.githubusercontent.com/u/50677428?s=460&u=daee1236878fc93e88c208230a2b17ce18836e8c&v=4',
@@ -50,13 +53,17 @@ export const members = [
     },
   },
   {
+<<<<<<< HEAD
 >>>>>>> 66d60165bb8a9f451c7430188c9155ff2c6ea682
+=======
+>>>>>>> e5efbd2b7b993cc35cab8b7bea0f7cfb5bc39be1
     nome: 'Israel Batista',
     participante: 'Aluno',
     curso: 'Front-end',
     turno: '',
     professor: '',
     foto: {
+<<<<<<< HEAD
 <<<<<<< HEAD
       src:
 <<<<<<< HEAD
@@ -68,6 +75,10 @@ export const members = [
 >>>>>>> 66d60165bb8a9f451c7430188c9155ff2c6ea682
         alt: 'Um rapaz moreno de camiseta branca'
 >>>>>>> 10da66867d68fddedf26af52cdc74d7f01eb63dc
+=======
+      src: 'https://avatars2.githubusercontent.com/u/4581552?s=460&u=2a0ab4fa5595597d63f35fe86213dc81cf4ff7af&v=4',
+        alt: 'Um rapaz moreno de camiseta branca',
+>>>>>>> e5efbd2b7b993cc35cab8b7bea0f7cfb5bc39be1
     },
      redesSocias: {
       github: 'https://github.com/Israelfer',
@@ -92,9 +103,27 @@ export const members = [
   {
     nome: 'Rayani Freitas',
     participante: 'Aluna',
+    curso: 'Front-end',
+    turno: 'noite',
+    professor: 'Simone Amorim',
     foto: {
       src:
-        'https://avatars0.githubusercontent.com/u/50677428?s=460&u=daee1236878fc93e88c208230a2b17ce18836e8c&v=4',
+        'https://media-exp1.licdn.com/dms/image/C4E03AQHMrDmh3LkV-g/profile-displayphoto-shrink_400_400/0?e=1606953600&v=beta&t=mzvA93aFahZR0CWM2aq5Lf0ZSfeLKtUrQQMjk_Erk0o',
+      alt: 'aluna start',
+    },
+    redesSocias: {
+      github: 'https://github.com/simoneas02',
+      linkedin: 'https://www.linkedin.com/in/simoneas02/',
+    },
+    },
+  {
+    nome: 'Vanessa Oliveira',
+    participante: 'Aluna',
+    curso: 'Front-end',
+    turno: 'noite',
+    professor: 'Simone Amorin',
+    foto: {
+      'https://avatars0.githubusercontent.com/u/50677428?s=460&u=daee1236878fc93e88c208230a2b17ce18836e8c&v=4',
       alt: 'Uma menina na frente de uma arvore',
     },
     redesSocias: {
@@ -103,7 +132,7 @@ export const members = [
     },
   },
   {
-    nome: 'Ana Beatriz',
+    nome: 'Maria Luísa Costa',
     participante: 'Aluna',
     curso: 'Front-end',
     turno: 'Noite',
@@ -117,8 +146,7 @@ export const members = [
       github: 'https://github.com/maluhcosta',
       linkedin: 'https://www.linkedin.com/in/maluhcosta/',
     },
-  }, 
-
+  },
   {
     nome: 'Alison Melo',
     participante: 'Aluno',
@@ -141,6 +169,9 @@ export const members = [
     curso: 'Front-end',
     turno: 'noite',
     professora: 'Simone Amorim',
+  },
+  {
+    professor: 'Tia Simone <3',
     foto: {
       src:
         'https://avatars0.githubusercontent.com/u/58551483?s=400&u=1571a94aa96fcac9d742b207b1ebd7254eaa2123&v=4',
@@ -158,12 +189,11 @@ export const members = [
     turno: 'Noite',
     professor: 'Raissa',
     foto: {
-    src:
-    '',
-      alt: '',
+      src: 'https://avatars2.githubusercontent.com/u/69424067?s=460&u=78abcf988e5f095bb4478029ac2f80b86b652e44&v=4',
+      alt: 'Foto perfil GitHub mflilian',
     },
-  redesSocias: {
-    github: '',
+    redesSocias: {
+      github: 'https://github.com/mflilian',
       linkedin: '',
     },
 },   
