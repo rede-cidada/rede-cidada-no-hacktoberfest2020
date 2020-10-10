@@ -117,7 +117,7 @@ export const members = [
       alt: '',
     },
     redesSocias: {
-      github: 'https://github.com/anabeatriiz',
+      github: 'https://github.com/alisonmelo',
       linkedin: '',
     },
   },
@@ -148,5 +148,22 @@ export const members = [
     github: '',
       linkedin: '',
     },
-},   
+},  
+{
+  nome: 'Ana Beatriz',
+  participante: 'Aluna',
+  curso: 'Front-end',
+  turno: 'noite',
+  professora: '',
+  foto: {
+    src:
+      '',
+    alt: '',
+  },
+  redesSocias: {
+    github: '',
+    linkedin: '',
+  },
+},  
+
 ];
