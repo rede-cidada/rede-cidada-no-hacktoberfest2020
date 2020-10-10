@@ -157,9 +157,9 @@ export const members = [
   {
     nome: 'Mayhhara Morais',
     participante: 'Aluna',
-    curso: '',
-    turno: '',
-    professor: '',
+    curso: 'Back-end',
+    turno: 'Noite',
+    professor: 'Raissa',
     foto: {
       src:
         '',
