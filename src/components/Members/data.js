@@ -32,6 +32,37 @@ export const members = [
     },
   },
   {
+    nome: 'Wendell Matheus',
+    participante: 'Aluno',
+    curso: '',
+    turno: '',
+    professor: '',
+    foto: {
+        src: '',
+        alt: '',
+    },
+    redesSocias: {
+      github: '',
+      linkedin: '',
+    },
+  },
+    {
+    nome: 'Israel Batista',
+    participante: 'Aluno',
+    curso: 'Front-end',
+    turno: 'Noite',
+    professor: 'Simone',
+    foto: {
+      src:
+        'https://avatars2.githubusercontent.com/u/4581552?s=460&u=2a0ab4fa5595597d63f35fe86213dc81cf4ff7af&v=4',
+        alt: 'Um rapaz moreno de camiseta branca'
+    },
+     redesSocias: {
+      github: 'https://github.com/Israelfer',
+      linkedin: 'https://www.linkedin.com/in/israel-batista/',
+    },
+  },
+  {
     nome: 'Tiago Augusto',
     participante: 'Aluno',
     curso: 'Front-end',
@@ -106,8 +137,8 @@ export const members = [
       alt: '',
     },
     redesSocias: {
-      github: '',
-      linkedin: '',
+      github: 'https://github.com/alisonmelo',
+      linkedin: 'https://www.linkedin.com/in/alisonmtmelo/',
     },
   },   
   {
@@ -132,9 +163,9 @@ export const members = [
   {
     nome: 'Mayhhara Morais',
     participante: 'Aluna',
-    curso: '',
-    turno: '',
-    professor: '',
+    curso: 'Back-end',
+    turno: 'Noite',
+    professor: 'Raissa',
     foto: {
       src:
         '',
@@ -144,5 +175,21 @@ export const members = [
       github: '',
       linkedin: '',
     },
-  },  
+},  
+{
+  nome: 'Ana Beatriz',
+  participante: 'Aluna',
+  curso: 'Front-end',
+  turno: 'noite',
+  professora: '',
+  foto: {
+    src:
+      '',
+    alt: '',
+  },
+  redesSocias: {
+    github: '',
+    linkedin: '',
+  },
+},  
 ];
