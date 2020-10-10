@@ -36,7 +36,7 @@ export const members = [
     participante: 'Aluna',
     curso: 'Front-end',
     turno: 'noite',
-    professor: '',
+    professor: 'Simone Amorin',
     foto: {
       src:
         'https://avatars0.githubusercontent.com/u/50677428?s=460&u=daee1236878fc93e88c208230a2b17ce18836e8c&v=4',
@@ -98,7 +98,7 @@ export const members = [
     participante: 'Aluna',
     curso: 'Front-end',
     turno: 'noite',
-    professor: '',
+    professor: 'Simone Amorin',
     foto: {
       'https://avatars0.githubusercontent.com/u/50677428?s=460&u=daee1236878fc93e88c208230a2b17ce18836e8c&v=4',
       alt: 'Uma menina na frente de uma arvore',
