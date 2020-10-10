@@ -32,6 +32,21 @@ export const members = [
     },
   },
   {
+    nome: 'Wendell Matheus',
+    participante: 'Aluno',
+    curso: 'Front-end',
+    turno: 'noite',  
+    professor: 'Simone Amorim',
+    foto: {
+        src: '',
+        alt: '',
+    },
+    redesSocias: {
+      github: '',
+      linkedin: '',
+    },
+  },
+    {
     nome: 'Vanessa Oliveira',
     participante: 'Aluna',
     curso: 'Front-end',
