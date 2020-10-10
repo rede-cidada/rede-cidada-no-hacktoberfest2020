@@ -142,8 +142,12 @@ export const members = [
       linkedin: 'https://www.linkedin.com/in/markus-dennys-abb8551ab/',
     },
   },   
-{
-  professor: 'Tia Simone <3',
+  {
+    nome: 'Mayhhara Morais',
+    participante: 'Aluna',
+    curso: 'Back-end',
+    turno: 'Noite',
+    professor: 'Raissa',
     foto: {
     src:
     '',
