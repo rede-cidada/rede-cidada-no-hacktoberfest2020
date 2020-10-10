@@ -53,12 +53,13 @@ export const members = [
     turno: 'Noite',
     professor: 'Simone',
     foto: {
-      src: '',
-      alt: '',
+      src:
+        'https://avatars2.githubusercontent.com/u/4581552?s=460&u=2a0ab4fa5595597d63f35fe86213dc81cf4ff7af&v=4',
+        alt: 'Um rapaz moreno de camiseta branca'
     },
      redesSocias: {
-      github: '',
-      linkedin: '',
+      github: 'https://github.com/Israelfer',
+      linkedin: 'https://www.linkedin.com/in/israel-batista/',
     },
   },
   {
