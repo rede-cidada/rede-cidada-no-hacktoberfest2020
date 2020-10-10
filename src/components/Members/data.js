@@ -40,6 +40,13 @@ export const members = [
     foto: {
       src:
         '',
+    },
+     redesSocias: {
+      github: '',
+      linkedin: '',
+    },
+  },
+  {
     nome: 'Tiago Augusto',
     participante: 'Aluno',
     curso: 'Front-end',
@@ -47,6 +54,7 @@ export const members = [
     professor: 'Simone',
     foto: {
       src:'',
+      src: '',
       alt: '',
     },
     redesSocias: {
@@ -54,8 +62,6 @@ export const members = [
       linkedin: '',
     },
   }, 
-  
-  },
   {
     nome: 'Rayani Freitas',
     participante: 'Aluna',
@@ -65,8 +71,8 @@ export const members = [
       alt: 'Uma menina na frente de uma arvore',
     },
     redesSocias: {
-      github: '',
-      linkedin: '',
+      github: 'https://github.com/nessalive',
+      linkedin: 'https://www.linkedin.com/in/vanessa-oliveira-0036a4154/',
     },
   },
   {
@@ -76,7 +82,7 @@ export const members = [
     turno: 'noite',
     professor: '',
     foto: {
-      src:'https://media-exp1.licdn.com/dms/image/C4E03AQHMrDmh3LkV-g/profile-displayphoto-shrink_400_400/0?e=1606953600&v=beta&t=mzvA93aFahZR0CWM2aq5Lf0ZSfeLKtUrQQMjk_Erk0o',
+      src: 'https://media-exp1.licdn.com/dms/image/C4E03AQHMrDmh3LkV-g/profile-displayphoto-shrink_400_400/0?e=1606953600&v=beta&t=mzvA93aFahZR0CWM2aq5Lf0ZSfeLKtUrQQMjk_Erk0o',
       alt: 'Uma mulher palestrando em um grande evento',
     },
     redesSocias: {
@@ -92,6 +98,22 @@ export const members = [
     professora: 'Simone Amorim',
     foto: {
       src:
+        'https://avatars0.githubusercontent.com/u/63320754?s=460&u=f02a453bb104adcee72ac1923c19b53847724a09&v=4',
+      alt: 'Foto do perfil do Github de Maria Luísa',
+    },
+    redesSocias: {
+      github: 'https://github.com/maluhcosta',
+      linkedin: 'https://www.linkedin.com/in/maluhcosta/',
+    },
+  },
+  {
+    nome: 'Alison Melo',
+    participante: 'Aluno',
+    curso: 'Front-end',
+    turno: 'noite',
+    professor: 'Tia Simone <3',
+    foto: {
+      src:
         '',
       alt: '',
     },
@@ -103,5 +125,29 @@ export const members = [
   {
     nome: 'Markus Dennys',
     participante: 'Aluno',
-  },
+    curso: 'Front-end',
+    turno: 'noite',
+    professora: 'Simone Amorim',
+    foto: {
+      src:
+        'https://avatars0.githubusercontent.com/u/58551483?s=400&u=1571a94aa96fcac9d742b207b1ebd7254eaa2123&v=4',
+      alt: 'Jovem alto de jaqueta,  em frente a um lago! ',
+    },
+    redesSocias: {
+      github: 'https://github.com/markDennys',
+      linkedin: 'https://www.linkedin.com/in/markus-dennys-abb8551ab/',
+    },
+  },   
+{
+  professor: 'Tia Simone <3',
+    foto: {
+    src:
+    '',
+      alt: '',
+    },
+  redesSocias: {
+    github: '',
+      linkedin: '',
+    },
+},   
 ];
