@@ -32,6 +32,39 @@ export const members = [
     },
   },
   {
+<<<<<<< HEAD
+=======
+    nome: 'Wendell Matheus',
+    participante: 'Aluno',
+    curso: '',
+    turno: '',
+    professor: '',
+    foto: {
+        src: '',
+        alt: '',
+    },
+    redesSocias: {
+      github: '',
+      linkedin: '',
+    },
+  },
+    {
+    nome: 'Israel Batista',
+    participante: 'Aluno',
+    curso: 'Front-end',
+    turno: 'Noite',
+    professor: 'Simone',
+    foto: {
+      src: '',
+      alt: '',
+    },
+     redesSocias: {
+      github: '',
+      linkedin: '',
+    },
+  },
+  {
+>>>>>>> fa0fd1e766af3451468a62cf18b2ca403af1bdd9
     nome: 'Tiago Augusto',
     participante: 'Aluno',
     curso: 'Front-end',
@@ -45,7 +78,11 @@ export const members = [
       github: '',
       linkedin: '',
     },
+<<<<<<< HEAD
   },
+=======
+  },  
+>>>>>>> fa0fd1e766af3451468a62cf18b2ca403af1bdd9
   {
     nome: 'Rayani Freitas',
     participante: 'Aluna',
