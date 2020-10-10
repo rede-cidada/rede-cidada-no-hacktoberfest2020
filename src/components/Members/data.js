@@ -38,7 +38,7 @@ export const members = [
     turno: 'noite',
     professor: 'Simone',
     foto: {
-      src:'',
+      src: '',
       alt: '',
     },
     redesSocias: {
@@ -66,7 +66,7 @@ export const members = [
     turno: 'noite',
     professor: '',
     foto: {
-      src:'https://media-exp1.licdn.com/dms/image/C4E03AQHMrDmh3LkV-g/profile-displayphoto-shrink_400_400/0?e=1606953600&v=beta&t=mzvA93aFahZR0CWM2aq5Lf0ZSfeLKtUrQQMjk_Erk0o',
+      src: 'https://media-exp1.licdn.com/dms/image/C4E03AQHMrDmh3LkV-g/profile-displayphoto-shrink_400_400/0?e=1606953600&v=beta&t=mzvA93aFahZR0CWM2aq5Lf0ZSfeLKtUrQQMjk_Erk0o',
       alt: 'Uma mulher palestrando em um grande evento',
     },
     redesSocias: {
@@ -89,8 +89,8 @@ export const members = [
       github: 'https://github.com/maluhcosta',
       linkedin: 'https://www.linkedin.com/in/maluhcosta/',
     },
-  },  
-  }, 
+  },
+
   {
     nome: 'Alison Melo',
     participante: 'Aluno',
@@ -112,6 +112,9 @@ export const members = [
     participante: 'Aluno',
     curso: 'Front-end',
     turno: 'noite',
+    professora: 'Simone Amorim',
+  },
+  {
     professor: 'Tia Simone <3',
     foto: {
       src:
