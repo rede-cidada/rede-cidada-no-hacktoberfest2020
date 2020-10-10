@@ -32,11 +32,46 @@ export const members = [
     },
   },  
   {
+<<<<<<< HEAD
     nome: 'Vanessa Oliveira',
     participante: 'Aluna',
     curso: 'Front-end',
     turno: 'noite',
     professor: '',
+=======
+    nome: 'Israel Batista',
+    participante: 'Aluno',
+    curso: 'Front-end',
+    turno: '',
+    professor: '',
+    foto: {
+      src:
+        '',
+    },
+     redesSocias: {
+      github: '',
+      linkedin: '',
+    },
+  },
+  {
+    nome: 'Tiago Augusto',
+    participante: 'Aluno',
+    curso: 'Front-end',
+    turno: 'noite',
+    professor: 'Simone',
+    foto: {
+      src: '',
+      alt: '',
+    },
+    redesSocias: {
+      github: '',
+      linkedin: '',
+    },
+  }, 
+  {
+    nome: 'Rayani Freitas',
+    participante: 'Aluna',
+>>>>>>> 1dde5346f7e0241c6be7ead0db96cb302c1032fb
     foto: {
       src:
         'https://avatars0.githubusercontent.com/u/50677428?s=460&u=daee1236878fc93e88c208230a2b17ce18836e8c&v=4',
@@ -62,5 +97,53 @@ export const members = [
       github: 'https://github.com/maluhcosta',
       linkedin: 'https://www.linkedin.com/in/maluhcosta/',
     },
+<<<<<<< HEAD
   }, 
+=======
+  },
+  {
+    nome: 'Alison Melo',
+    participante: 'Aluno',
+    curso: 'Front-end',
+    turno: 'noite',
+    professor: 'Tia Simone <3',
+    foto: {
+      src:
+        '',
+      alt: '',
+    },
+    redesSocias: {
+      github: '',
+      linkedin: '',
+    },
+  },
+  {
+    nome: 'Markus Dennys',
+    participante: 'Aluno',
+    curso: 'Front-end',
+    turno: 'noite',
+    professora: 'Simone Amorim',
+    foto: {
+      src:
+        'https://avatars0.githubusercontent.com/u/58551483?s=400&u=1571a94aa96fcac9d742b207b1ebd7254eaa2123&v=4',
+      alt: 'Jovem alto de jaqueta em frente ao lago! ',
+    },
+    redesSocias: {
+      github: '',
+      linkedin: '',
+    },
+  },   
+{
+  professor: 'Tia Simone <3',
+    foto: {
+    src:
+    '',
+      alt: '',
+    },
+  redesSocias: {
+    github: '',
+      linkedin: '',
+    },
+},   
+>>>>>>> 1dde5346f7e0241c6be7ead0db96cb302c1032fb
 ];
