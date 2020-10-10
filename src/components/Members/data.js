@@ -130,11 +130,11 @@ export const members = [
     foto: {
       src:
         'https://avatars0.githubusercontent.com/u/58551483?s=400&u=1571a94aa96fcac9d742b207b1ebd7254eaa2123&v=4',
-      alt: 'Jovem alto de jaqueta em frente ao lago! ',
+      alt: 'Jovem alto de jaqueta,  em frente a um lago! ',
     },
     redesSocias: {
-      github: '',
-      linkedin: '',
+      github: 'https://github.com/markDennys',
+      linkedin: 'https://www.linkedin.com/in/markus-dennys-abb8551ab/',
     },
   },   
 {
