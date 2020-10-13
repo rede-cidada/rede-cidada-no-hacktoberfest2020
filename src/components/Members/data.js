@@ -39,7 +39,7 @@ export const members = [
     professor: 'Simone Amorim',
     foto: {
         src: 'https://avatars2.githubusercontent.com/u/66651329?v=4',
-        alt: 'Homem pardo, de cabelo cacheado, de óculos',
+        alt: 'Homem pardo, de cabelo cacheado, de óculos sorrindo',
     },
     redesSocias: {
       github: 'https://github.com/WendellMatheus/',
