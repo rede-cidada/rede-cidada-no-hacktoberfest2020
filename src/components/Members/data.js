@@ -153,20 +153,9 @@ export const members = [
     },
   },   
 {
-  professor: 'Tia Simone <3',
-    foto: {
-    src:
-    '',
-      alt: '',
-    },
-  redesSocias: {
-    github: '',
-      linkedin: '',
-    },
-},
-{
   nome: 'Renato Barboza',
   participante: 'Convidado',
+  curso: 'Full-stack',
   foto: {
     src:
       'https://avatars3.githubusercontent.com/u/8043534?s=460&u=05c77d6cd36abfd8ed94aa1101cc15566288ba5f&v=4',
