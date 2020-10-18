@@ -163,5 +163,18 @@ export const members = [
     github: '',
       linkedin: '',
     },
-},   
+},
+{
+  nome: 'Renato Barboza',
+  participante: 'Convidado',
+  foto: {
+    src:
+      'https://avatars3.githubusercontent.com/u/8043534?s=460&u=05c77d6cd36abfd8ed94aa1101cc15566288ba5f&v=4',
+    alt: '',
+  },
+  redesSocias: {
+    github: 'https://github.com/Remato',
+    linkedin: 'https://www.linkedin.com/in/renatobcosta/',
+  },
+},
 ];
